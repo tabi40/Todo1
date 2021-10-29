@@ -1,0 +1,24 @@
+.flex-container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    background-color: rgb(49, 51, 180);
+    margin:0px 500px 0px 500px;
+    text-align: center;
+}
+
+.flex-container div {
+    padding: 400px 30px 350px 350px;   
+    background-color:#edfaef;                
+    font-size: 20px; 
+    color: rgb(3, 3, 3);
+    margin: 30px 80px 30px 80px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+p {
+    color: tomato;
+    text-align: center;
+}
